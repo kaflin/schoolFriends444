@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/schoolFriends444/static/css/main.67718d0a.css",
+    "main.js": "/schoolFriends444/static/js/main.d1e088ee.js",
+    "index.html": "/schoolFriends444/index.html",
+    "main.67718d0a.css.map": "/schoolFriends444/static/css/main.67718d0a.css.map",
+    "main.d1e088ee.js.map": "/schoolFriends444/static/js/main.d1e088ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67718d0a.css",
+    "static/js/main.d1e088ee.js"
+  ]
+}
